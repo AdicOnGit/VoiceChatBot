@@ -1,0 +1,4286 @@
+[
+    {
+        "kanji": "午前",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "近く",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "書く",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "自分",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "成る",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "教室",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "習う",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "公園",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "百",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "食べ物",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "明るい",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "塩",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "生徒",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "覚える",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "元気",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "更新",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "分別",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "縺れる",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "暑い",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "大丈夫",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "褒める",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "家族",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "入る",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "雑誌",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "毎晩",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "欲しい",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "晴れ",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "先月",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "夕べ",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "渡る",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "川",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "悪くなる",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "男",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "木曜日",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "出身地",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "耳",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "嫌",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "甘い",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "住む",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "泥棒",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "上着",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "万年筆",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "乗っ取る",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "毎日",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "野心的",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "高い",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "就いて",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "家庭",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "後ろ",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "口",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "何方",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "隣",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "何故",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "今朝",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "朝",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "入れる",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "積もる",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "臭い",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "待つ",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "下さい",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "西",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "申す",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "名前",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "何",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "広い",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "気にしない",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "掃除",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "蝋燭",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "該当",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "白い",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "靴下",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "余り",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "何処",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "幾ら",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "知る",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "背広",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "無くなる",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "買い物",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "鉛筆",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "水",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "交差点",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "南",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "手伝い",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "長い",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "薬",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "白",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "学生",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "楽しい",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "切手",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "鳥",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "お茶",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "頼む",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "駅",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "休む",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "買う",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "外国人",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "又",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "働く",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "教える",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "服",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "本当",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "可愛い",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "押す",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "切る",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "文章",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "早い",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "風",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "使う",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "大変",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "無くす",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "古い",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "所",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "座る",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "春",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "呼ぶ",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "全部",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "飲み物",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "下手",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "多い",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "庭",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "締める",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "点ける",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "向こう",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "急に",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "勤務時間",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "郵便局",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "より",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "二つ",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "今週",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "帽子",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "大きい",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "話",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "食堂",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "貴方",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "医者",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "花",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "年",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "起きる",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "大勢",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "道",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "切符",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "手",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "怒る",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "遠い",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "椅子",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "電話",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "文法",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "忙しい",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "小便",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "撮る",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "十",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "縦",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "好奇心旺盛",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "漢字",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "予定",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "火曜日",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "先",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "机",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "学校",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "終わる",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "晩",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "送信",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "匂い",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "問題",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "に就いて",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "置く",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "暗い",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "乗る",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "絵",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "生まれる",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "質問",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "喫茶店",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "魚",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "番号",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "作る",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "舞う",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "重い",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "千",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "自動車",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "帰る",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "消す",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "眼鏡",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "一昨年",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "車",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "作文",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "夕方",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "来月",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "橋",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "歯",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "好き",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "半分",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "人",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "強い",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "降る",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "木",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "店",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "正義",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "別",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "水曜日",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "八百屋",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "此れ",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "風邪",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "午後",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "暖かい",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "渡す",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "東",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "お金",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "今年",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "静か",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "兄弟",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "薄い",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "赤",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "廊下",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "声",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "戸",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "散歩",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "箸",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "歩く",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "両親",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "病院",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "来年",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "雪",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "玄関",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "熱心",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "毎週",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "曇り",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "付ける",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "茶色",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "新規",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "近い",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "様々",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "眠る",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "地図",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "去年",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "便利",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "病気",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "様な",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "違う",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "幾つ",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "二",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "洋服",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "明日",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "上げる",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "始まる",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "本",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "六",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "天気",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "居る",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "四つ",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "如何して",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "立つ",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "風呂",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "年商",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "大好き",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "着く",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "来週",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "同じ",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "映画",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "出す",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "言う",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "鍵",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "継続",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "兄",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "美味しい",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "箱",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "面白い",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "泳ぐ",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "丸い",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "結構",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "先週",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "町",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "浴びる",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "三つ",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "お母さん",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "北",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "暇",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "七つ",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "実物",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "逃げる",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "寒い",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "趣味",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "乗せる",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "一寸",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "寝る",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "煙草",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "かも知れません",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "花瓶",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "大きな",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "遊ぶ",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "其の",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "家",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "以上",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "染み",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "上る",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "猫",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "内容",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "文",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "三",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "歌う",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "着る",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "従う",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "赤い",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "女",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "丁度",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "黄色",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "一緒",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "結婚",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "洗う",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "右",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "細い",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "地下鉄",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "空",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "五",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "張る",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "足",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "昼",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "走る",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "其れ",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "夜",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "困る",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "洗濯",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "牛肉",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "国",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "時刻表",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "綺麗",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "若い",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "何の",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "持つ",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "団体",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "都市",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "鞄",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "初めて",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "一日",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "守る",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "一つ",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "大人",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "子供",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "履歴書",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "毎朝",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "飛ぶ",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "館",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "歌",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "返す",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "下がる",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "受付",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "財布",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "横",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "降りる",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "発音",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "石鹸",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "与える",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "読む",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "生活",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "学ぶ",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "取る",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "閉める",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "旅行",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "電車",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "階段",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "月曜日",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "少し",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "自転車",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "如何",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "応募",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "返却",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "緑",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "交番",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "丈夫",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "卵",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "様に",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "果物",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "土曜日",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "頭",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "銀行",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "会う",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "出かける",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "五つ",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "部屋",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "村",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "豚肉",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "整える",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "低い",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "見せる",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "掛かる",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "飛行機",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "九つ",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "紅茶",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "何時も",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "疲れる",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "始め",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "物",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "男の子",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "痛い",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "皆さん",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "貸す",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "飴",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "戻る",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "建物",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "新聞",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "友達",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "今晩",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "台所",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "立派",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "見る",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "女の子",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "海",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "掛ける",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "音楽",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "雨",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "少ない",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "多分",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "夏休み",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "昨日",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "減らす",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "易しい",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "出る",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "飲む",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "以内",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "黒い",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "お父さん",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "電気",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "以下",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "新しい",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "極楽",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "弟",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "珍しい",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "分かる",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "壊れる",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "此の",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "手紙",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "言葉",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "先生",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "今",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "皆",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "回り",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "犬",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "上手",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "映画館",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "妹",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "動物",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "汚れ",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "大使館",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "肉",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "紙",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "出来る",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "一番",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "時々",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "今度",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "図書館",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "嫌い",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "授業",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "時間",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "含む",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "外",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "灰皿",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "代わりに",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "時計",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "死ぬ",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "借りる",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "忘れる",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "青",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "食べる",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "今月",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "傘",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "金曜日",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "悪い",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "辞書",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "色々",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "糸切り歯",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "姉",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "日曜日",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "意味",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "大切",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "写真",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "靴",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "冷蔵庫",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "大学",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "宿題",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "私",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "封筒",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "荷物",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "夏",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "行く",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "有名",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "増やし",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "弱い",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "半",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "日課",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "臭気",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "開ける",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "沢山",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "体",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "誰",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "練習",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "鼻",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "迚も",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "熱い",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "辺",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "有る",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "警官",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "安い",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "此方",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "茶碗",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "冬",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "休み",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "砂糖",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "八",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "野菜",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "話す",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "聞く",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "落とす",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "上",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "牛乳",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "以外",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "誕生日",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "良い",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "料理",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "幾つか",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "色",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "然し",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "遅い",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "山",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "す可き",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "勤める",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "仕事",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "止まる",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "池",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "英語",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "窓",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "売る",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "弾く",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "左",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "外国",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "本棚",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "太い",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "留学生",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "勉強",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "今日",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "小さい",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "所為",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "黒",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "難しい",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "目",
+        "jlpt_level": "JLPT N5"
+    },
+    {
+        "kanji": "公務員",
+        "jlpt_level": "JLPT N4"
+    },
+    {
+        "kanji": "指輪",
+        "jlpt_level": "JLPT N4"
+    },
+    {
+        "kanji": "雲",
+        "jlpt_level": "JLPT N4"
+    },
+    {
+        "kanji": "飛行場",
+        "jlpt_level": "JLPT N4"
+    },
+    {
+        "kanji": "布団",
+        "jlpt_level": "JLPT N4"
+    },
+    {
+        "kanji": "葉",
+        "jlpt_level": "JLPT N4"
+    },
+    {
+        "kanji": "坂",
+        "jlpt_level": "JLPT N4"
+    },
+    {
+        "kanji": "中学校",
+        "jlpt_level": "JLPT N4"
+    },
+    {
+        "kanji": "展覧会",
+        "jlpt_level": "JLPT N4"
+    },
+    {
+        "kanji": "絹",
+        "jlpt_level": "JLPT N4"
+    },
+    {
+        "kanji": "説明",
+        "jlpt_level": "JLPT N4"
+    },
+    {
+        "kanji": "森",
+        "jlpt_level": "JLPT N4"
+    },
+    {
+        "kanji": "鏡",
+        "jlpt_level": "JLPT N4"
+    },
+    {
+        "kanji": "遊び",
+        "jlpt_level": "JLPT N4"
+    },
+    {
+        "kanji": "研究室",
+        "jlpt_level": "JLPT N4"
+    },
+    {
+        "kanji": "翻訳",
+        "jlpt_level": "JLPT N4"
+    },
+    {
+        "kanji": "船",
+        "jlpt_level": "JLPT N4"
+    },
+    {
+        "kanji": "科学",
+        "jlpt_level": "JLPT N4"
+    },
+    {
+        "kanji": "音",
+        "jlpt_level": "JLPT N4"
+    },
+    {
+        "kanji": "事故",
+        "jlpt_level": "JLPT N4"
+    },
+    {
+        "kanji": "会話",
+        "jlpt_level": "JLPT N4"
+    },
+    {
+        "kanji": "柔道",
+        "jlpt_level": "JLPT N4"
+    },
+    {
+        "kanji": "台風",
+        "jlpt_level": "JLPT N4"
+    },
+    {
+        "kanji": "経済",
+        "jlpt_level": "JLPT N4"
+    },
+    {
+        "kanji": "腕",
+        "jlpt_level": "JLPT N4"
+    },
+    {
+        "kanji": "教育",
+        "jlpt_level": "JLPT N4"
+    },
+    {
+        "kanji": "世界",
+        "jlpt_level": "JLPT N4"
+    },
+    {
+        "kanji": "林",
+        "jlpt_level": "JLPT N4"
+    },
+    {
+        "kanji": "貿易",
+        "jlpt_level": "JLPT N4"
+    },
+    {
+        "kanji": "注射",
+        "jlpt_level": "JLPT N4"
+    },
+    {
+        "kanji": "駐車場",
+        "jlpt_level": "JLPT N4"
+    },
+    {
+        "kanji": "花見",
+        "jlpt_level": "JLPT N4"
+    },
+    {
+        "kanji": "人口",
+        "jlpt_level": "JLPT N4"
+    },
+    {
+        "kanji": "研究",
+        "jlpt_level": "JLPT N4"
+    },
+    {
+        "kanji": "卒業",
+        "jlpt_level": "JLPT N4"
+    },
+    {
+        "kanji": "心",
+        "jlpt_level": "JLPT N4"
+    },
+    {
+        "kanji": "漫画",
+        "jlpt_level": "JLPT N4"
+    },
+    {
+        "kanji": "特別",
+        "jlpt_level": "JLPT N4"
+    },
+    {
+        "kanji": "背中",
+        "jlpt_level": "JLPT N4"
+    },
+    {
+        "kanji": "喧嘩",
+        "jlpt_level": "JLPT N4"
+    },
+    {
+        "kanji": "発音",
+        "jlpt_level": "JLPT N4"
+    },
+    {
+        "kanji": "生活",
+        "jlpt_level": "JLPT N4"
+    },
+    {
+        "kanji": "空港",
+        "jlpt_level": "JLPT N4"
+    },
+    {
+        "kanji": "気分",
+        "jlpt_level": "JLPT N4"
+    },
+    {
+        "kanji": "赤ちゃん",
+        "jlpt_level": "JLPT N4"
+    },
+    {
+        "kanji": "夢",
+        "jlpt_level": "JLPT N4"
+    },
+    {
+        "kanji": "周り",
+        "jlpt_level": "JLPT N4"
+    },
+    {
+        "kanji": "数学",
+        "jlpt_level": "JLPT N4"
+    },
+    {
+        "kanji": "葡萄",
+        "jlpt_level": "JLPT N4"
+    },
+    {
+        "kanji": "女性",
+        "jlpt_level": "JLPT N4"
+    },
+    {
+        "kanji": "教会",
+        "jlpt_level": "JLPT N4"
+    },
+    {
+        "kanji": "辞典",
+        "jlpt_level": "JLPT N4"
+    },
+    {
+        "kanji": "会議室",
+        "jlpt_level": "JLPT N4"
+    },
+    {
+        "kanji": "交通",
+        "jlpt_level": "JLPT N4"
+    },
+    {
+        "kanji": "残念",
+        "jlpt_level": "JLPT N4"
+    },
+    {
+        "kanji": "玩具",
+        "jlpt_level": "JLPT N4"
+    },
+    {
+        "kanji": "指",
+        "jlpt_level": "JLPT N4"
+    },
+    {
+        "kanji": "湖",
+        "jlpt_level": "JLPT N4"
+    },
+    {
+        "kanji": "校長",
+        "jlpt_level": "JLPT N4"
+    },
+    {
+        "kanji": "美術館",
+        "jlpt_level": "JLPT N4"
+    },
+    {
+        "kanji": "警察",
+        "jlpt_level": "JLPT N4"
+    },
+    {
+        "kanji": "旅館",
+        "jlpt_level": "JLPT N4"
+    },
+    {
+        "kanji": "医学",
+        "jlpt_level": "JLPT N4"
+    },
+    {
+        "kanji": "普通",
+        "jlpt_level": "JLPT N4"
+    },
+    {
+        "kanji": "力",
+        "jlpt_level": "JLPT N4"
+    },
+    {
+        "kanji": "火",
+        "jlpt_level": "JLPT N4"
+    },
+    {
+        "kanji": "贈り物",
+        "jlpt_level": "JLPT N4"
+    },
+    {
+        "kanji": "海岸",
+        "jlpt_level": "JLPT N4"
+    },
+    {
+        "kanji": "壁",
+        "jlpt_level": "JLPT N4"
+    },
+    {
+        "kanji": "日記",
+        "jlpt_level": "JLPT N4"
+    },
+    {
+        "kanji": "文化",
+        "jlpt_level": "JLPT N4"
+    },
+    {
+        "kanji": "息子",
+        "jlpt_level": "JLPT N4"
+    },
+    {
+        "kanji": "島",
+        "jlpt_level": "JLPT N4"
+    },
+    {
+        "kanji": "戦争",
+        "jlpt_level": "JLPT N4"
+    },
+    {
+        "kanji": "季節",
+        "jlpt_level": "JLPT N4"
+    },
+    {
+        "kanji": "高等学校",
+        "jlpt_level": "JLPT N4"
+    },
+    {
+        "kanji": "電報",
+        "jlpt_level": "JLPT N4"
+    },
+    {
+        "kanji": "水道",
+        "jlpt_level": "JLPT N4"
+    },
+    {
+        "kanji": "文学",
+        "jlpt_level": "JLPT N4"
+    },
+    {
+        "kanji": "文法",
+        "jlpt_level": "JLPT N4"
+    },
+    {
+        "kanji": "動物園",
+        "jlpt_level": "JLPT N4"
+    },
+    {
+        "kanji": "講義",
+        "jlpt_level": "JLPT N4"
+    },
+    {
+        "kanji": "工場",
+        "jlpt_level": "JLPT N4"
+    },
+    {
+        "kanji": "田舎",
+        "jlpt_level": "JLPT N4"
+    },
+    {
+        "kanji": "乗り物",
+        "jlpt_level": "JLPT N4"
+    },
+    {
+        "kanji": "注意",
+        "jlpt_level": "JLPT N4"
+    },
+    {
+        "kanji": "味噌",
+        "jlpt_level": "JLPT N4"
+    },
+    {
+        "kanji": "自由",
+        "jlpt_level": "JLPT N4"
+    },
+    {
+        "kanji": "社会",
+        "jlpt_level": "JLPT N4"
+    },
+    {
+        "kanji": "天気予報",
+        "jlpt_level": "JLPT N4"
+    },
+    {
+        "kanji": "法律",
+        "jlpt_level": "JLPT N4"
+    },
+    {
+        "kanji": "道具",
+        "jlpt_level": "JLPT N4"
+    },
+    {
+        "kanji": "男性",
+        "jlpt_level": "JLPT N4"
+    },
+    {
+        "kanji": "髭",
+        "jlpt_level": "JLPT N4"
+    },
+    {
+        "kanji": "政治",
+        "jlpt_level": "JLPT N4"
+    },
+    {
+        "kanji": "押入れ",
+        "jlpt_level": "JLPT N4"
+    },
+    {
+        "kanji": "先輩",
+        "jlpt_level": "JLPT N4"
+    },
+    {
+        "kanji": "故障",
+        "jlpt_level": "JLPT N4"
+    },
+    {
+        "kanji": "小説",
+        "jlpt_level": "JLPT N4"
+    },
+    {
+        "kanji": "歴史",
+        "jlpt_level": "JLPT N4"
+    },
+    {
+        "kanji": "手袋",
+        "jlpt_level": "JLPT N4"
+    },
+    {
+        "kanji": "神社",
+        "jlpt_level": "JLPT N4"
+    },
+    {
+        "kanji": "糸",
+        "jlpt_level": "JLPT N4"
+    },
+    {
+        "kanji": "生きる",
+        "jlpt_level": "JLPT N4"
+    },
+    {
+        "kanji": "産業",
+        "jlpt_level": "JLPT N4"
+    },
+    {
+        "kanji": "危険",
+        "jlpt_level": "JLPT N4"
+    },
+    {
+        "kanji": "趣味",
+        "jlpt_level": "JLPT N4"
+    },
+    {
+        "kanji": "市民",
+        "jlpt_level": "JLPT N4"
+    },
+    {
+        "kanji": "水泳",
+        "jlpt_level": "JLPT N4"
+    },
+    {
+        "kanji": "砂",
+        "jlpt_level": "JLPT N4"
+    },
+    {
+        "kanji": "気",
+        "jlpt_level": "JLPT N4"
+    },
+    {
+        "kanji": "郊外",
+        "jlpt_level": "JLPT N4"
+    },
+    {
+        "kanji": "地震",
+        "jlpt_level": "JLPT N4"
+    },
+    {
+        "kanji": "生産",
+        "jlpt_level": "JLPT N4"
+    },
+    {
+        "kanji": "光",
+        "jlpt_level": "JLPT N4"
+    },
+    {
+        "kanji": "西洋",
+        "jlpt_level": "JLPT N4"
+    },
+    {
+        "kanji": "入学",
+        "jlpt_level": "JLPT N4"
+    },
+    {
+        "kanji": "国際",
+        "jlpt_level": "JLPT N4"
+    },
+    {
+        "kanji": "住所",
+        "jlpt_level": "JLPT N4"
+    },
+    {
+        "kanji": "会議",
+        "jlpt_level": "JLPT N4"
+    },
+    {
+        "kanji": "関係",
+        "jlpt_level": "JLPT N4"
+    },
+    {
+        "kanji": "人形",
+        "jlpt_level": "JLPT N4"
+    },
+    {
+        "kanji": "小学校",
+        "jlpt_level": "JLPT N4"
+    },
+    {
+        "kanji": "独立",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "海外",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "記事",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "信仰",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "書斎",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "組合",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "鎖",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "爆発",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "虎",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "情報",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "収入",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "知能",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "嵐",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "差別",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "月",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "医療",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "博士",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "県",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "過去",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "筋肉",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "道徳",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "対象",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "銀",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "気候",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "学習",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "刀",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "労働",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "犯罪",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "旗",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "雷",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "議員",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "場",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "永遠",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "物価",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "物語",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "飯",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "作品",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "大臣",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "権利",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "砂漠",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "助手",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "秘密",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "博物館",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "人間",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "梅",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "事実",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "恐怖",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "広告",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "少年",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "兎",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "温度",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "分析",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "畑",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "騒音",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "筋",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "釣り",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "逮捕",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "左右",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "単位",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "改善",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "睡眠",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "座席",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "出版",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "硬貨",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "首都",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "熱帯",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "伝統",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "屋根",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "栄養",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "地平線",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "登山",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "輸出",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "消費",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "感覚",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "失業",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "芸術",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "服装",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "帯",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "絵画",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "作家",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "吸収",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "位置",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "投票",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "電子",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "攻撃",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "渋滞",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "金融",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "岸",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "人生",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "粉",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "患者",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "笑い",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "医師",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "競技",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "暗記",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "議長",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "物質",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "未来",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "歩道",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "大使",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "相続",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "郵便",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "拍手",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "頭痛",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "自然",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "資源",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "昼食",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "都市",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "羽",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "国語",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "現状",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "平均",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "通学",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "人種",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "祭り",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "居間",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "言語",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "外交",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "計画",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "偶然",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "現金",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "恋人",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "土産",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "連想",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "武器",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "程",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "石炭",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "行動",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "汗",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "感情",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "週",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "表情",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "芝居",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "翼",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "肩",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "販売",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "一致",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "胸",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "噂",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "演説",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "信号",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "友情",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "個人",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "運",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "袖",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "証明",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "鉄",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "型",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "王様",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "速度",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "役割",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "独身",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "意識",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "首相",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "奨学金",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "留学",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "現象",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "実験",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "世紀",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "籠",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "跡",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "計算",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "精神",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "流れる",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "呼吸",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "宝石",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "運動",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "神",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "缶",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "賞",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "知識",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "利益",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "価格",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "鉄道",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "鼠",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "腰",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "円",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "命令",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "笛",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "国家",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "引用",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "輸入",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "政府",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "宗教",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "禁煙",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "宇宙",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "絶滅",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "放送",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "食欲",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "生物",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "希望",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "勇気",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "読書",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "炎",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "筆",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "量",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "生命",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "免許",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "婚約",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "火災",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "少女",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "太陽",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "茶",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "哲学",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "列車",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "軍隊",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "建築",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "作曲",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "財産",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "句",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "衝突",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "国境",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "機械",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "資本",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "中心",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "訓練",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "化学",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "進歩",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "保証",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "嘘",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "骨折",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "神経",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "責任",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "道路",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "営業",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "袋",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "存在",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "劇場",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "建設",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "制度",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "膝",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "能",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "元",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "鍋",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "信頼",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "優勝",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "小屋",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "商品",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "波",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "健康",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "衛星",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "地域",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "企業",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "詩",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "馬鹿",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "現在",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "霧",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "幸福",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "話題",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "父親",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "駐車",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "正午",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "観光",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "青年",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "平等",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "礼",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "教科書",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "詩人",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "氷",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "影",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "署名",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "契約",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "記録",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "悪魔",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "結果",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "調査",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "航空",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "数字",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "腹",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "女王",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "記憶",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "胃",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "発見",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "舞台",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "自殺",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "無料",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "豆",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "日付",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "公平",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "常識",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "教授",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "額",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "理解",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "不安",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "食事",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "知事",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "合図",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "方向",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "式",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "石油",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "予算",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "灰",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "模様",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "体育",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "母親",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "国民",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "逆",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "城",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "異常",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "安定",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "紐",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "酸素",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "文字",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "大陸",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "我慢",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "現実",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "穀物",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "離婚",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "体温",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "宝",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "莫大",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "俳優",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "節約",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "診察",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "学者",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "商人",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "頬",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "植物",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "芽",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "銃",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "理想",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "酒",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "金属",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "秒",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "強盗",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "心臓",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "猿",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "誕生",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "経験",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "学期",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "費用",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "裸",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "発明",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "泡",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "黒板",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "巣",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "知恵",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "痛み",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "農業",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "家具",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "屡々",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "地下",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "時",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "正直",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "塔",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "瞬間",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "香り",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "食品",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "寄付",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "義務",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "動詞",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "農家",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "毒",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "湾",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "平和",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "毛布",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "否定",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "弁当",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "舌",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "作業",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "評価",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "議会",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "集団",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "活用",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "地球",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "丘",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "大統領",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "憲法",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "論文",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "冒険",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "文明",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "根",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "期待",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "流れ",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "年寄り",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "会計",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "谷",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "解決",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "皿",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "州",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "油",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "意志",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "牛",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "涙",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "退屈",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "愛",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "職業",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "泥",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "餌",
+        "jlpt_level": "JLPT N3"
+    },
+    {
+        "kanji": "新幹線",
+        "jlpt_level": "JLPT N2"
+    },
+    {
+        "kanji": "苗字",
+        "jlpt_level": "JLPT N2"
+    },
+    {
+        "kanji": "昼寝",
+        "jlpt_level": "JLPT N2"
+    },
+    {
+        "kanji": "運河",
+        "jlpt_level": "JLPT N2"
+    },
+    {
+        "kanji": "遊園地",
+        "jlpt_level": "JLPT N2"
+    },
+    {
+        "kanji": "儀式",
+        "jlpt_level": "JLPT N2"
+    },
+    {
+        "kanji": "蛇口",
+        "jlpt_level": "JLPT N2"
+    },
+    {
+        "kanji": "武士",
+        "jlpt_level": "JLPT N2"
+    },
+    {
+        "kanji": "木材",
+        "jlpt_level": "JLPT N2"
+    },
+    {
+        "kanji": "南極",
+        "jlpt_level": "JLPT N2"
+    },
+    {
+        "kanji": "北極",
+        "jlpt_level": "JLPT N2"
+    },
+    {
+        "kanji": "職人",
+        "jlpt_level": "JLPT N2"
+    },
+    {
+        "kanji": "溶岩",
+        "jlpt_level": "JLPT N2"
+    },
+    {
+        "kanji": "大通り",
+        "jlpt_level": "JLPT N2"
+    },
+    {
+        "kanji": "天皇",
+        "jlpt_level": "JLPT N2"
+    },
+    {
+        "kanji": "切り",
+        "jlpt_level": "JLPT N1"
+    }
+]
