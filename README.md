@@ -1,5 +1,5 @@
 <div align='center'>
-![VoiceChatBot_logo](./assests/VoiceChatBot_logo.png)
+<img src="https://raw.githubusercontent.com/AdicOnGit/VoiceChatBot/master/assests/VoiceChatBot_logo.png" alt="owl image">
 
 <h1>Voice chat bot and Japanese Instructor</h1>
 <p>Welcome to my Voice Chat Bot project! Powered by OpenAI's Whisper and ChatGPT technologies.</p>
