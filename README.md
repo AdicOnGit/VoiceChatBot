@@ -12,7 +12,6 @@
 
 - [About the Project](#star2-about-the-project)
 - [Roadmap](#compass-roadmap)
-- [Contributing](#wave-contributing)
 
 ## :star2: About the Project
 
@@ -21,12 +20,6 @@
 ## :toolbox: Getting Started
 
 ### :running: Run Locally
-
-Clone the project
-
-```bash
-https://github.com/AdicOnGit/VoiceChatBot/tree/master
-```
 
 Clone the project
 
@@ -52,10 +45,4 @@ python main.py
 - [ ] Expanding the vocabulary of the Japanese teaching module.
 - [ ] integrating interactive exercises for a more immersive learning experience.
 
-## :wave: Contributing
-
-<a href="https://github.com/AdicOnGit/VoiceChatBot/tree/master/graphs/contributors"> <img src="https://contrib.rocks/image?repo=Louis3797/awesome-readme-template" /> </a>
-
 Contributions are always welcome!
-
-see `contributing.md` for ways to get started
