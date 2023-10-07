@@ -24,7 +24,7 @@
 Clone the project
 
 ```bash
-https://github.com/AdicOnGit/VoiceChatBot/tree/master
+https://github.com/AdicOnGit/VoiceChatBot
 ```
 
 Install dependencies
